@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "alt-flavor.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"nodemon app.js"
+    // "dev":"nodemon app.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,5 +16,8 @@
     "js": "^0.1.0",
     "lodash": "^4.17.21",
     "popper": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
   }
 }

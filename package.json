@@ -4,7 +4,7 @@
   "main": "alt-flavor.js",
   "scripts": {
     "start":"nodemon app.js"
-    // "dev":"nodemon app.js"
+
   },
   "author": "",
   "license": "ISC",
